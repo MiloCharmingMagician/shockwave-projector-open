@@ -1,5 +1,15 @@
 # Prerequisites
 *.d
+*.zip
+*.htm
+*.manifest
+*.user
+*.aps
+*.ncb
+*.suo
+Debug
+Release
+f_in_box
 
 # Compiled Object files
 *.slo
@@ -15,6 +25,11 @@
 *.so
 *.dylib
 *.dll
+*.ocx
+
+# Data files
+*.bin
+*.swf
 
 # Fortran module files
 *.mod
